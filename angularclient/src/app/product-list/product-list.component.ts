@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { Product } from '../model/product';
-import { ClassifierService } from '../service/classifier.service';
 
 @Component({
   selector: 'app-product-list',

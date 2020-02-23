@@ -27,7 +27,7 @@ export class AppComponent {
     });
   }
 
-  update(code: string) {
+  update() {
     this.classifierService.update().subscribe(data => {
       ProductListComponent.prototype.products = data;
     });
