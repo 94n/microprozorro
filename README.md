@@ -2,6 +2,6 @@
 2) Run "ng serve -open" from angularclient folder
 
 notes: 
-click buttons on page, "enter" button action not implemented
+click buttons on page, "enter" button action not implemented <br>
 security works on service side only, it was commented out <br>
 does not work with angular client at the moment
