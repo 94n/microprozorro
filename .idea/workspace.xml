@@ -1,7 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ac541fc-2fe6-4096-8587-d4ef99d09ae0" name="Default Changelist" comment="" />
+    <list default="true" id="8ac541fc-2fe6-4096-8587-d4ef99d09ae0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/angularclient/.angular-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/e2e/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/e2e/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/app/model/product.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/app/product-list/product-list.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/app/product-list/product-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/app/product-list/product-list.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/app/product-list/product-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/app/service/classifier.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/app/user.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angularclient/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/MainRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/ProductListService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/controller/ProductListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/data/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/data/source/ProductListDataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/product/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/product/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/product/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/product/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/product/data/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/product/data/source/ProductDataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/ClassifierUpdateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/controller/ClassifierUpdateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/controller/ProductBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/data/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/data/source/ClassifierUpdateDataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,12 +73,108 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/angularclient/src/app/service/classifier.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/ProductListService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/CorsConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="16" column="109" lean-forward="true" selection-start-line="16" selection-start-column="109" selection-end-line="16" selection-end-column="109" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/data/source/ProductListDataSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/SecurityConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/controller/ClassifierUpdateController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/controller/ProductBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/data/source/ClassifierUpdateDataSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angularclient/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angularclient/src/app/app.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -30,22 +188,94 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rout</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\dev\microprozorro\angularclient\src</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/data/entity/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/data/source/JdbcConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/product/entity/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/product/data/entity/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/product/ProductService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/data/source/ProductDataSource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/product/data/source/ProductDataSource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/data/source/ProductDataSource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/controller/DataUpdateController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/controller/ProductBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/ClassifierUpdateService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/product/SpringSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/data/source/ProductListDataSource.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/js/app/app.css" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/views/index.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/index.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/js/app/main.controller.js" />
+        <option value="$PROJECT_DIR$/angularclient/src/index.html" />
+        <option value="$PROJECT_DIR$/angularclient/src/user.java" />
+        <option value="$PROJECT_DIR$/angularclient/src/app/user.ts" />
+        <option value="$PROJECT_DIR$/angularclient/src/app/user.service.ts" />
+        <option value="$PROJECT_DIR$/angularclient/src/app/user-list/user-list.component.ts" />
+        <option value="$PROJECT_DIR$/angularclient/src/app/user-list/user-list.component.html" />
+        <option value="$PROJECT_DIR$/angularclient/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/angularclient/src/app/model/user.ts" />
+        <option value="$PROJECT_DIR$/angularclient/src/app/model/product.ts" />
+        <option value="$PROJECT_DIR$/angularclient/src/app/service/product.service.ts" />
+        <option value="$PROJECT_DIR$/angularclient/src/app/product-list/product-list.component.spec.ts" />
+        <option value="$PROJECT_DIR$/angularclient/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/ProductListService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/SimpleCORSFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/CorsConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/product/CorsConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/CorsConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/MainRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/controller/ProductListController.java" />
+        <option value="$PROJECT_DIR$/angularclient/src/app/product-list/product-list.component.html" />
+        <option value="$PROJECT_DIR$/angularclient/src/app/product-list/product-list.component.ts" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/product/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/product/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/angularclient/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/angularclient/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/data/source/ClassifierUpdateDataSource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/controller/ClassifierUpdateController.java" />
+        <option value="$PROJECT_DIR$/angularclient/src/app/service/classifier.service.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1715" />
-    <option name="y" value="135" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1015" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -56,13 +286,20 @@
             <path>
               <item name="microprozorro" type="b2602c69:ProjectViewProjectNode" />
               <item name="microprozorro" type="462c0819:PsiDirectoryNode" />
+              <item name="angularclient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microprozorro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microprozorro" type="462c0819:PsiDirectoryNode" />
+              <item name="angularclient" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="microprozorro" type="b2602c69:ProjectViewProjectNode" />
               <item name="microprozorro" type="462c0819:PsiDirectoryNode" />
+              <item name="angularclient" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -71,12 +308,43 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582212347151" />
-    <property name="last_opened_file_path" value="D:/" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582477330621" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="ts.external.directory.path" value="C:\dev\microprozorro\angularclient\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\microprozorro\angularclient\src\app\service" />
+      <recent name="C:\dev\microprozorro\angularclient\src\app\model" />
+      <recent name="C:\dev\microprozorro\angularclient\src\app" />
+      <recent name="C:\dev\microprozorro\src\main\resources\static\js\app" />
+      <recent name="C:\dev\microprozorro\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ua.gov.prozorro.service.updater" />
+      <recent name="ua.gov.prozorro.service.product" />
+      <recent name="ua.gov.prozorro.service.list" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\microprozorro\src\main\resources\static\views" />
+      <recent name="C:\dev\microprozorro\src\main\resources\static\js\app" />
+      <recent name="C:\dev\microprozorro\src\main\resources" />
+      <recent name="C:\dev\microprozorro\src\main\java\ua\gov\prozorro\service\updater" />
+      <recent name="C:\dev\microprozorro\src\main\java\ua\gov\prozorro\service\list" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -90,9 +358,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MainRunner">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.gov.prozorro.service.MainRunner" />
+      <module name="microprozorro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.gov.prozorro.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductListDataSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.gov.prozorro.service.list.data.source.ProductListDataSource" />
+      <module name="microprozorro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.gov.prozorro.service.list.data.source.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,7 +406,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ClassifierUpdateService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microprozorro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.gov.prozorro.service.updater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ua.gov.prozorro.service.updater.ClassifierUpdateService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductListService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microprozorro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.gov.prozorro.service.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ua.gov.prozorro.service.list.ProductListService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microprozorro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.gov.prozorro.service.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ua.gov.prozorro.service.product.ProductService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -127,6 +463,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainRunner" />
+        <item itemvalue="Spring Boot.ProductListService" />
+        <item itemvalue="Spring Boot.ClassifierUpdateService" />
+        <item itemvalue="Spring Boot.ProductService" />
+        <item itemvalue="Application.ProductListDataSource" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -139,66 +484,527 @@
       <option name="presentableId" value="Default" />
       <updated>1582189575808</updated>
       <workItem from="1582189578188" duration="3299000" />
+      <workItem from="1582444602917" duration="635000" />
+      <workItem from="1582448799040" duration="1771000" />
+      <workItem from="1582450623859" duration="1955000" />
+      <workItem from="1582452627880" duration="1908000" />
+      <workItem from="1582454589468" duration="1774000" />
+      <workItem from="1582456415913" duration="1776000" />
+      <workItem from="1582458241951" duration="1774000" />
+      <workItem from="1582460078805" duration="1722000" />
+      <workItem from="1582461921843" duration="1798000" />
+      <workItem from="1582463805629" duration="1776000" />
+      <workItem from="1582465632924" duration="2104000" />
+      <workItem from="1582468554185" duration="1772000" />
+      <workItem from="1582470372673" duration="1791000" />
+      <workItem from="1582472217552" duration="1778000" />
+      <workItem from="1582474307780" duration="1773000" />
+      <workItem from="1582476132071" duration="1118000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3299000" />
+    <option name="totallyTimeSpent" value="30524000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1015" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1134" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13326226" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1945629" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.39820358" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3303393" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46307385" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32934132" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3493014" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.25848302" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32934132" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.32934132" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32934132" />
+      <window_info anchor="bottom" id="TypeScript" order="15" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/angularclient/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/product/controller/ProductController.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/controller/ProductListController.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>dataSource.findSubList(id)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/classifierentry.java">
+    <entry file="file://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.10.jre7/postgresql-42.2.10.jre7.pom">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_65/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41492">
+          <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/lib/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/app/UserController.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/app/app.css" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/app/app.css" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/app/app.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/app/main.controller.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/app/main.controller.spec.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/lib/angular.min.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/app/main.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/app/main.css" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/app/main.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularclient/src/user.java" />
+    <entry file="file://$PROJECT_DIR$/angularclient/src/app/user-service.service.ts" />
+    <entry file="file://$PROJECT_DIR$/angularclient/src/app/user-service.service.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/product/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularclient/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularclient/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularclient/src/app/user.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.3.RELEASE/spring-webmvc-5.2.3.RELEASE.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/product/CorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/CorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularclient/src/app/model/product.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularclient/src/app/product-list/product-list.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularclient/src/app/product-list/product-list.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularclient/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularclient/node_modules/@angular/common/http/src/client.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17776">
+          <caret line="813" column="4" selection-start-line="813" selection-start-column="4" selection-end-line="813" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/ClassifierUpdateService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularclient/src/app/product-list/product-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularclient/src/app/product-list/product-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularclient/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/MainRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/controller/ProductListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularclient/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularclient/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/product/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/product/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularclient/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/ProductListService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/CorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="109" lean-forward="true" selection-start-line="16" selection-start-column="109" selection-end-line="16" selection-end-column="109" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/list/data/source/ProductListDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/data/source/ClassifierUpdateDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/controller/ProductBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/gov/prozorro/service/updater/controller/ClassifierUpdateController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularclient/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularclient/src/app/service/classifier.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>microprozorro</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.springframework.boot:spring-boot-starter-data-jdbc:unknown</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
