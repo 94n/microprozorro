@@ -4,4 +4,4 @@
 notes: 
 click buttons on page, "enter" button action not implemented <br>
 security works on service side only, it was commented out <br>
-does not work with angular client at the moment
+so security does not work with angular client at the moment
